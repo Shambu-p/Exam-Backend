@@ -1,0 +1,15 @@
+{
+  "direction": [
+    {
+      "from": "",
+      "to": "",
+      "month": "",
+      "year": ""
+    }
+  ],
+  "nearby_service": [],
+  "nearby_station": [],
+  "service": [],
+  "station": [],
+  "service_type": []
+}
